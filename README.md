@@ -2,7 +2,7 @@
 
 Worker Pool is a pattern to achieve concurrency using fixed number of workers to execute multiple amount of tasks on a queue. This is basic implementation of the worker pool using Go ecosystem via goroutines and channel.
 
-## Prject Details
+## Project Details
 
 * No of goroutines taken is 5
 * No of jobs to be done is 50
